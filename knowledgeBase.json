@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "topic": "OpenAI",
+    "content": "OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity."
+  },
+  {
+    "id": 2,
+    "topic": "Next.js",
+    "content": "Next.js is a React framework that enables several extra features, including server-side rendering and generating static websites."
+  },
+  {
+    "id": 3,
+    "topic": "Vercel",
+    "content": "Vercel is a platform for frontend frameworks and static sites, built to integrate with your headless content, commerce, or database."
+  }
+]
